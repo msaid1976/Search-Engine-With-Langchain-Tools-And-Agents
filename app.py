@@ -13,7 +13,7 @@ from langchain_core.tools import tool
 from langchain_groq import ChatGroq
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from pypdf import PdfReader
+from pypdf import PdfReader 
 
 
 load_dotenv()
